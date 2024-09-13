@@ -1,0 +1,9 @@
+{
+  "work_dir": "Li200/Li10/0",
+  "nsearch_max_rand": 10,
+  "fname_base": "POSCAR_Si50O50",
+  "fname_mol": "POSCAR_Li",
+  "descriptor": "soap",
+  "max_target_nLi": 200,
+  "target_nLi": 1
+}
