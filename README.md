@@ -1,4 +1,4 @@
-# ins_Li
+# Baysian_Lithiation
 
 A repository for charging simulation of amorphous SiO anode material.
 
