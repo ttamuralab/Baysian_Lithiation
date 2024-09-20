@@ -1,4 +1,4 @@
-# Baysian_Lithiation
+# Bayesian_Lithiation
 
 A repository for charging simulation of amorphous SiO anode material.
 
